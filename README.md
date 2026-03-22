@@ -12,9 +12,9 @@ DevOps learner currently building strong fundamentals in Linux, Git, and automat
 Linux • Git • Bash • Networking • Troubleshooting
 
 ## 📂 Featured Projects
-- DevOps Learning Journey
-- Shell Automation Scripts
-- Git Command Reference
+- 90DaysOfDevOps
+- shell-scripts
+- cheat-sheets
 
 ## 📫 Connect with me
 LinkedIn: https://linkedin.com/in/sarthak-bhalerao
