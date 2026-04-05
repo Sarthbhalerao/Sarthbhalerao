@@ -10,7 +10,7 @@ DevOps learner currently building strong fundamentals in Linux, Git, and automat
 - Git & GitHub workflows
 - Cloud (AWS)
 
-## Next in Queue
+## 👉 Next in Queue
 - Docker
 - GitHub Actions
 
