@@ -11,7 +11,7 @@ DevOps learner currently building strong fundamentals in Linux, Git, and automat
 ## 🛠 Skills & Tools
 Linux • Git • Bash • Networking • Troubleshooting
 
-## 📂 Featured Projects
+## 📂 Featured Repositories 
 - 90DaysOfDevOps
 - shell-scripts
 - cheat-sheets
