@@ -22,5 +22,7 @@ Linux • Git • Bash • Networking • Troubleshooting • Shell Scripting
 - shell-scripts
 - cheat-sheets
 
-## 📫 Connect with me
-LinkedIn: https://linkedin.com/in/sarthak-bhalerao
+## 📬 Connect With Me
+LinkedIn: [Sarthak Bhalerao](https://linkedin.com/in/sarthak-bhalerao)
+
+---
